@@ -13,7 +13,7 @@ End-to-end analysis of 6 months of real retail pharmacy POS data (*7,214 bills, 
 ![Executive Summary](page1_executive_summary.png)
 
 ### Page 2: Segment & Cost Quality Breakdown
-![Segment Breakdown](page2_segment_breakdown.png)
+![Segment Breakdown](page2_segment_breakdown_v2.png)
 
 ---
 
